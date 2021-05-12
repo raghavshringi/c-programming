@@ -3,7 +3,7 @@
 
 int main() {
     // Write C code here
-    printf("Hello world");
+    printf("Raghav Shringi");
     
     return 0;
 }
