@@ -2,7 +2,7 @@
 int main()
     {
     	int i,j,k;
-    i=59;
+    i=69;
     j=5;
     k=i+j; 	
     	
